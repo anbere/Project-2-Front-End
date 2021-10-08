@@ -21,10 +21,9 @@ function RegistrationForm() {
         console.log(response);
         if(response.ok)
         {
-            
+
         }
-    })
-    
+    }) 
   }
 
     const submitHandler = e => {
